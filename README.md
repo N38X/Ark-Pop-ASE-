@@ -14,7 +14,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 ![GUI Screenshot](https://cdn.discordapp.com/attachments/1341043146569814101/1360755155775258844/image.png?ex=67fc457e&is=67faf3fe&hm=95fd333d291a5ab5de6f24099684cd0acfe19479fc92a82169f79fbe76437162&)
 
